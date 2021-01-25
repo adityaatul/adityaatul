@@ -1,5 +1,5 @@
 ### Hi there I'm ATUL ADITYA👋
-### Glad to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+### Glad to see you here! [visitors + 100](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 <!--
 **adityaatul/adityaatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
