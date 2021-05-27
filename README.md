@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at `Microsoft`
-- 🌱 I’m currently `learning Typescript and front stack`
+- 🌱 I’m currently `learning Typescript and front end stack`
 - 💬 Ask me about `Backend Engineering`
 - 📫 How to reach me: `atul100aditya@gmail.com`
 - ⚡ Fun fact: `I am not funny`
